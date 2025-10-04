@@ -18,3 +18,10 @@ This repository contains the DATA602 project, focusing on the analysis and predi
 *   **Rashmitha Vakkapatla**
     *   UID: 122023932
     *   Email: rashmiv@umd.edu
+
+## Dataset
+
+The dataset used for this project is the **Diabetes Health Indicators Dataset**. This dataset is a feature-selected collection of data from the Behavioral Risk Factor Surveillance System (BRFSS) focused on health indicators which can be used to predict diabetes status.
+
+*   **Source:** Kaggle (Originally from the CDC’s BRFSS)
+*   **Dataset Link:** [https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset)
