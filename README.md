@@ -1,6 +1,6 @@
 # Analysis and Prediction of Diabetes Using Health Indicators
 
-## DATA602 Checkpoint 1 Submission
+## DATA602 Project Submission
 
 This repository contains the DATA602 project, focusing on the analysis and prediction of diabetes using various health indicators.
 
