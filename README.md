@@ -4,9 +4,8 @@
 
 This repository contains the DATA602 project, focusing on the analysis and prediction of diabetes using various health indicators.
 
-🔗 Project TutorialThe complete walkthrough of our methodology, exploratory analysis, and model interpretation can be found on our GitHub Pages site:
+🔗 **Project Tutorial**: The complete walkthrough of our methodology, exploratory analysis, and model interpretation can be found on our GitHub Pages site:
 👉 https://sohail-umd.github.io/
-### 🌐 **[Click Here to View the Interactive Tutorial Site](https://sohail-umd.github.io/)**
 
 ## Authors
 
